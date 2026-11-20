@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gau 1 tuoi//Thiep moi//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gau-1-tuoi-20261206@thiep-moi
+DTSTAMP:20261120T000000Z
+DTSTART:20261206T040000Z
+DTEND:20261206T060000Z
+SUMMARY:Sinh nhật 1 tuổi của Gấu (Nguyễn Tùng Lâm)
+LOCATION:Nhà Văn Hóa Tổ 8 Khương Đình\, Số 9 Ngách 29/78 Khươ
+ ng Hạ
+DESCRIPTION:Sự hiện diện của mọi người là lời chúc tốt 
+ đẹp nhất dành cho con ạ!
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mai là sinh nhật Gấu 🧸
+END:VALARM
+END:VEVENT
+END:VCALENDAR
